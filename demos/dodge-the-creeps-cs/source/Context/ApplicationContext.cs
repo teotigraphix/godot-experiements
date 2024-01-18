@@ -47,9 +47,7 @@ public partial class ApplicationContext : GodotObject
     public EnemyContext Enemy => _enemy;
 
     public UIContext UI => _ui;
-
-    //
-
+    
     protected Main Root
     {
         get => _root;
@@ -107,7 +105,6 @@ public partial class ApplicationContext : GodotObject
         Controller.Init();
 
         // Mediators
-
         var playerMediator = new PlayerMediator(Service, Player);
         var mobMediator = new EnemyMediator(Service, Enemy);
     }
