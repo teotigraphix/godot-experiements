@@ -1,6 +1,6 @@
 # TeotiGraphix Godot Experiments
 
-* Dodge the Creeps C# with POC app framework - https://github.com/teotigraphix/godot-experiements/tree/main/dodge-the-creeps-cs
+* Dodge the Creeps C# with POC app framework - https://github.com/teotigraphix/godot-experiments/tree/main/dodge-the-creeps-cs
 
 ## License
 
